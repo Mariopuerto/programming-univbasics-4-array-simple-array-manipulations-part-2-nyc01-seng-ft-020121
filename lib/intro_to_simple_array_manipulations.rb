@@ -15,5 +15,5 @@ def using_flatten(array)
 end
 
 def using_delete(array,element)
-  array.delete(1,element)
+  array.delete(element)
 end
