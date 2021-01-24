@@ -11,5 +11,5 @@ def using_uniq(array)
 end
 
 def using_flatten(array)
-  array.flatten(instruments)
+  array.flatten(1)
 end
